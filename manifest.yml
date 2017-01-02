@@ -1,5 +1,6 @@
 applications:
 - path: .
+  command: tar xvzf build.tar.gz && kore run 
   memory: 256M
   instances: 1
   domain: mybluemix.net
