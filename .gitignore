@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+json-yajl.so
+assets.h
+cert
