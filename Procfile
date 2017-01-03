@@ -1,1 +1,1 @@
-web: ./json-yajl -rn
+web: LIB_LIBRARY_PATH=. ./json-yajl -rn
