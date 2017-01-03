@@ -1,1 +1,1 @@
-web: ./json-yajl -frn
+web: ./json-yajl -rn
