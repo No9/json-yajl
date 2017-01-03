@@ -1,14 +1,16 @@
-# Node.js Starter Overview
+# kore.io Bluemix Sample
 
-The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
+The kore.ioi starter demonstrates a simple, the json-yajl application on Bluemix.
 
 ## Run the app locally
 
-1. [Install Node.js][]
-2. Download and extract the starter code from the Bluemix UI
-3. cd into the app directory
-4. Run `npm install` to install the app's dependencies
-5. Run `npm start` to start the app
-6. Access the running app in a browser at http://localhost:6001
+1. Install [kore.io](https://kore.io)
 
-[Install Node.js]: https://nodejs.org/en/download/
+2. git clone https://github.com/no9/json-yajl.git
+
+3. cd json-yajl 
+
+4. kore build
+
+5. ./json-yajl -fnr
+
