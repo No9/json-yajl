@@ -1,6 +1,6 @@
 applications:
 - path: .
-  command: kore run 
+  command: ./run.sh 
   memory: 256M
   instances: 1
   domain: mybluemix.net
